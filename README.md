@@ -1,4 +1,4 @@
-# FinFlow Reality MVP
+# FinFlow Reality
 
 FinFlow Reality is a Streamlit application designed to help users visualize their cash flow differences by analyzing transaction data. Users can upload their transaction CSV files and gain insights into their financial health through interactive visualizations.
 
@@ -12,7 +12,7 @@ FinFlow Reality is a Streamlit application designed to help users visualize thei
 ## Project Structure
 
 ```
-finflow-reality-mvp
+finflow-reality
 ├── src
 │   ├── app.py
 │   ├── components
@@ -42,8 +42,8 @@ finflow-reality-mvp
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/finflow-reality-mvp.git
-   cd finflow-reality-mvp
+   git clone https://github.com/yourusername/finflow-reality.git
+   cd finflow-reality
    ```
 
 2. Install the required packages:
