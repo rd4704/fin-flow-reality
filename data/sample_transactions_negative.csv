@@ -1,0 +1,16 @@
+Date,Description,Amount,Type,Status
+2023-01-05,Rent,-1500,Outflow,Paid
+2023-01-10,Grocery,-300,Outflow,Paid
+2023-01-15,Utilities,-200,Outflow,Paid
+2023-01-25,Car Payment,-400,Outflow,Paid
+2023-02-05,Rent,-1500,Outflow,Paid
+2023-02-10,Grocery,-350,Outflow,Paid
+2023-02-15,Utilities,-250,Outflow,Paid
+2023-02-20,Investment Return,800,Inflow,Paid
+2023-02-25,Car Maintenance,-150,Outflow,Paid
+2023-03-01,Salary,5000,Inflow,Paid
+2023-03-05,Rent,-55500,Outflow,Paid
+2023-03-10,Grocery,-400,Outflow,Paid
+2023-03-15,Utilities,-200,Outflow,Paid
+2023-03-20,Side Business,1500,Inflow,Paid
+2023-03-25,Insurance,-300,Outflow,Paid
